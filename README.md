@@ -7,3 +7,6 @@ https://www.instructables.com/id/Voice-Controlled-Glasses-With-Magnifying-Lens/
 This video shows the project in action (without the voice activation part!)
 
 https://www.youtube.com/watch?v=xf67wpM8Xmg
+
+[![MoveLens project Video](https://img.youtube.com/vi/xf67wpM8Xmg/0.jpg)](http://www.youtube.com/watch?v=xf67wpM8Xmg)
+
