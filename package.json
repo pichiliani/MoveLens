@@ -1,0 +1,16 @@
+{
+  "name": "MoveLens",
+  "version": "0.0.1",
+  "description": "An app that move the lens of the glass",
+  "main": "index.js",
+  "scripts": {
+    "start": "node connector.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "watson-developer-cloud":"2.21.1",
+    "underscore": "^1.8.3",
+    "child_process":"1.0.2",
+    "tjbot":"1.2.0"
+  }
+}
